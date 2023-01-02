@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/@aravindhraj402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aravindhraj402" height="30" width="40" /></a>
 <a href="https://fb.com/aravindh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aravindh raj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aravindh-raj21" target="blank"><img align="center" src="https://github.com/AKAAravindh/AKAAravindh/blob/main/icons8-linkedin.svg" alt="@aravindh-raj21" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/aravindh-raj21" target="blank"><img align="center" src="https://github.com/AKAAravindh/AKAAravindh/blob/main/icons8-linkedin.svg" alt="@aravindh-raj21" height="45" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
