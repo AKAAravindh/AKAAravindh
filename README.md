@@ -8,16 +8,19 @@
 
 
 
-- 🌱 I’m currently learning **MEARN stack web development**
+- 🌱 I’m currently learning **MEARN Full stack web development**
 
 - 📫 How to reach me **aravindhrajbca@gmail.com**
 
-- ⚡ **I am funny😅**
+- ❤️ I love Problem Solving and unraveling the mysteries behind the magic of computer programs.
+
+- ⚡ I like to accept challenges, am a quick learner and self-motivated.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aravindhraj402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aravindhraj402" height="30" width="40" /></a>
 <a href="https://fb.com/aravindh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aravindh raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aravindh-raj21" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="@aravindh-raj21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
