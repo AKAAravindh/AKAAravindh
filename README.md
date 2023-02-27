@@ -29,5 +29,5 @@
 
 
 <p><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="akaaravindh" /></p>
-<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akaaravindh&" alt="akaaravindh" /></p>
+<p><img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akaaravindh&" alt="akaaravindh" /></p>
 
