@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MEARN Full stack web development**
 
-- 📫 How to reach me **aravindhrajbca@gmail.com, aravindhraj206@gmail.com**
+- 📫 How to reach me **aravindhraj206@gmail.com**
 
 - ❤️ I love Problem Solving and unraveling the mysteries behind the magic of computer programs.
 
