@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaaravindh" alt="akaaravindh" /></a> </p>
  
  <p align="left"> <a href="https://twitter.com/_mad_magician_" target="blank"><img src="https://img.shields.io/twitter/follow/_mad_magician_?logo=twitter&style=for-the-badge" alt="_mad_magician_" /></a> </p>
+ <img align="right" alt="Coding Animated Gif" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  - 🌱 I’m currently learning **MEARN Full stack web development**
  - 👨‍💻 All of my projects are available at [https://akaaravindh.github.io/My-Portfolio/](https://akaaravindh.github.io/My-Portfolio/)
  - ❤️ I love Problem Solving and unraveling the mysteries behind the magic of computer programs.
@@ -13,7 +14,7 @@
  
  - 📫 How to reach me **aravindhraj206@gmail.com**
  - ⚡ Fun fact **I love solving UI challenges & watching hackathons**
-<img align="right" alt="Coding Animated Gif" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
  <p align="left">
  <a href="https://codepen.io/akaaravindh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akaaravindh" height="30" width="40" /></a>
