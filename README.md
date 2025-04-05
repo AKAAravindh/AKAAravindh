@@ -52,16 +52,17 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> &nbsp; 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a> </p>
  
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="akaaravindh" width="100%" />
+    <td width="60%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
     </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaaravindh&show_icons=true&locale=en&layout=compact" alt="akaaravindh" width="100%" />
+    <td width="40%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaaravindh&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
+
 
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaaravindh&" alt="akaaravindh" /></p>
