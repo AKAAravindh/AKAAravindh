@@ -52,8 +52,16 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> &nbsp; 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a> </p>
  
- <p width="100%" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="akaaravindh" /><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaaravindh&show_icons=true&locale=en&layout=compact" alt="akaaravindh" /></p>
- 
- <p></p>
+<table>
+  <tr>
+    <td width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="akaaravindh" width="100%" />
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaaravindh&show_icons=true&locale=en&layout=compact" alt="akaaravindh" width="100%" />
+    </td>
+  </tr>
+</table>
+
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaaravindh&" alt="akaaravindh" /></p>
