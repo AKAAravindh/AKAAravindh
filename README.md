@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaaravindh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%" />
 </p>
 
