@@ -1,7 +1,7 @@
 ![logo](https://github.com/AKAAravindh/AKAAravindh/blob/main/new_banner.png)
  <h1 align="center">Hi 👋, I'm Aravindh Raj</h1>
 <h3 align="center">💻 Web Developer • React & Vite Stack • Passionate About Clean UI & Performance</h3>
-</hr>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaaravindh&label=Profile%20views&color=0e75b6&style=flat" alt="akaaravindh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaaravindh" alt="akaaravindh" /></a> </p>
  <img align="right" alt="Coding Animated Gif" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
