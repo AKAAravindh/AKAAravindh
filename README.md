@@ -1,7 +1,7 @@
 ![logo](https://github.com/AKAAravindh/AKAAravindh/blob/main/new_banner.png)
  <h1 align="center">Hi 👋, I'm Aravindh Raj</h1>
 <h3 align="center">💻 Web Developer • React & Vite Stack • Passionate About Clean UI & Performance</h3>
-<img align="right" alt="Coding Animated Gif" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaaravindh&label=Profile%20views&color=0e75b6&style=flat" alt="akaaravindh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaaravindh" alt="akaaravindh" /></a> </p>
  
@@ -13,6 +13,7 @@
  
  - 📫 How to reach me **aravindhraj206@gmail.com**
  - ⚡ Fun fact **I love solving UI challenges & watching hackathons**
+<img align="right" alt="Coding Animated Gif" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="left">Connect with me:</h3>
  <p align="left">
  <a href="https://codepen.io/akaaravindh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akaaravindh" height="30" width="40" /></a>
