@@ -11,7 +11,6 @@
  - 👨‍💻 All of my projects are available at [https://akaaravindh.github.io/My-Portfolio/](https://akaaravindh.github.io/My-Portfolio/)
  - ❤️ I love Problem Solving and unraveling the mysteries behind the magic of computer programs.
  - 💬 Ask me about ****React**, **Tailwind**, **JavaScript**, **Frontend Architecture****
- 
  - 📫 How to reach me **aravindhraj206@gmail.com**
  - ⚡ Fun fact **I love solving UI challenges & watching hackathons**
 
