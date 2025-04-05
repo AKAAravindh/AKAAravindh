@@ -54,4 +54,4 @@
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaaravindh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="40%" align="right" />
  <img src="https://github-readme-stats.vercel.app/api?username=akaaravindh&show_icons=true&locale=en" alt="GitHub Stats" width="57%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaaravindh&" alt="akaaravindh" />
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaaravindh&" alt="akaaravindh" /></p>
