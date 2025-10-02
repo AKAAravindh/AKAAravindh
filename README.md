@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaaravindh" alt="akaaravindh" /></a> </p>
  <img align="right" alt="Coding Animated Gif" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://instagram.com/_mad_magician_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@_mad_magician_-E4405F?logo=instagram&style=for-the-badge" alt="@_mad_magician_" /> </a> </p>
- - 🌱 I’m currently learning **MEARN Full stack web development**
+ - 🌱 I’m **MEARN Full Stack Web Developer**
  - 👨‍💻 All of my projects are available at [https://akaaravindh.github.io/Portfolio/](https://akaaravindh.github.io/Portfolio/)
  - ❤️ I love Problem Solving and unraveling the mysteries behind the magic of computer programs.
  - 💬 Ask me about ****React**, **Tailwind**, **JavaScript**, **Frontend Architecture****
